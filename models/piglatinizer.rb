@@ -4,3 +4,5 @@ class PigLatinizer
 
     split_word = string.split("")
   end
+
+end
