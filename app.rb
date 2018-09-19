@@ -8,3 +8,5 @@ class App < Sinatra::Base
   post '/piglatinize' do
     @pig_latin = PigLatinizer.new
 end
+
+end
